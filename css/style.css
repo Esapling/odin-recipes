@@ -1,0 +1,26 @@
+/**A small css to make main page a bit good**/
+
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+/** to use Rampart one family for header this font family library is added to css  for more please look at Google Fonts**/
+
+body{
+    background-color: antiquewhite;
+}
+#first{
+    width: 100%;
+    height: 100%;
+}
+.header{
+    color:black;
+    font-family: 'Rampart One', cursive;
+}
+.recipe{
+    text-decoration: none;
+    color:black;
+    size:14px;
+}
+
+a:hover{
+    color:red;
+    text-decoration: underline;
+}
